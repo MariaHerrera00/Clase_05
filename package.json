@@ -1,0 +1,23 @@
+{
+  "name": "clase_05",
+  "version": "1.0.0",
+  "description": "��A\u0000c\u0000t\u0000i\u0000v\u0000i\u0000d\u0000a\u0000d\u0000 \u0000c\u0000l\u0000a\u0000s\u0000e\u0000_\u00000\u00005\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaHerrera00/Clase_05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaHerrera00/Clase_05/issues"
+  },
+  "homepage": "https://github.com/MariaHerrera00/Clase_05#readme",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
